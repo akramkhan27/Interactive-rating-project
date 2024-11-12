@@ -81,12 +81,14 @@
     background-color: #fff;
 }
 
-.submit-button{
+.submit-button {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 10%;
-    
+}
+#submit-btn:hover{
+    background-color: rgb(249, 132, 15); 
 }
 .submit-button button{
     height: 100%;
